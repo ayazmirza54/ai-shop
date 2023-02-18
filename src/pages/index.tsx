@@ -66,7 +66,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              By AI Video tools <span>-&gt;</span>
+              Buy AI Video tools <span>-&gt;</span>
             </h2>
            
           </a>
@@ -83,7 +83,7 @@ export default function Home() {
             
           </a>
         </div>
-        
+
       </main>
     </>
   )
